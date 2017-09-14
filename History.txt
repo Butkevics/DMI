@@ -1,5 +1,44 @@
-<<<<<<< HEAD
-=======
+
+
+	
+	
+  238  crome
+  239  firefox
+  240  ls
+  241  cd documents/
+  242  ls
+  243  cd
+  244  ls
+  245  wine Csmith
+  246  cd downloads/
+  247  ls
+  248  fIREFOX@
+  249  FIREFOX @
+  250  firefox @
+  251  firebox
+  252  mozzila
+  253  firefox
+  254  ssh -X x151REB078@213
+  255  ssh -X x151REB078@213.175.92.22
+  256  exit
+  257  ssh -X x151REB078@213.175.92.22
+  258  exit
+  259  exit
+  260  systemview
+  261  run systemview
+  262  firefox
+  263  radhasoami29
+  264  ps
+  265  ssh -X x151REB078@21317592.22
+  266  ssh -X x151REB078@213.175.92.22
+  267  exit
+  268  matlab
+  269  ssh -X x151REB191@213.175.92.22
+  270  rm *
+  271  ls
+  272  mc
+  273  matlab
+  274  ssh -X x151REB078@213.175.92.22
   275  exit
   276  firefox
   277  chrome-browser
@@ -67,7 +106,6 @@
   339  ./concd
   340  cd
   341  ls -lat
->>>>>>> f13b2263427c267a18d91de21d1287f3393c0365
   342  cd downloads/
   343  ls -lat
   344  exit
@@ -960,114 +998,3 @@
  1231  pwd
  1232  history
  1233  history > History.txt
- 1234  ls -l
- 1235  nano History.txt
- 1236  ls -l
- 1237  cat History.txt
- 1238  git add .
- 1239  git commit -m "20170914_09_500"
- 1240  git push -u orgin master
- 1241  firefox &
- 1242  whoami
- 1243  echo
- 1244  cat
- 1245  darbi$ git init
- 1246  pwd
- 1247  cd
- 1248  pwd
- 1249  ls
- 1250  cd darbi1
- 1251  darbi1$ ls
- 1252  darbi1$ git init
- 1253  pwd
- 1254  ls
- 1255  history | grep mkdir
- 1256  mkdir darbi
- 1257  mkdir darbi1000
- 1258  ls
- 1259  cd darbi1000
- 1260  history
- 1261  history > history.texta
- 1262  ls
- 1263  cat history.texta 
- 1264  git init
- 1265  git add .
- 1266  git config --global user.email san4es98@inbox.lv
- 1267  git commit -m "20170914_16_15"
- 1268  git remote add origin https://github.com/Butkevics/DMI.git
- 1269  git push origin master
- 1270  history
- 1271  cat history.txt
- 1272  history > history.txt
- 1273  ls-l
- 1274  history > history.txt
-<<<<<<< HEAD
- 1275  ls -l
- 1276  nano history.txt
- 1277  ls
- 1278  ls -l
- 1279  cat history.txt
- 1280  git commit -m "20170914_16_45"
- 1281  git add .
- 1282  git commit -m "20170914_16_45"
- 1283  git pusg origin master
- 1284  git push origin master
- 1285  man echo 
- 1286  man echo
- 1287  echo Tecmint is a community of Linux Nerds
- 1288  x=10
- 1289  echo The value of variable x = $x
- 1290  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
- 1291  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
- 1292  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
- 1293  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
- 1294  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
- 1295  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
- 1296  echo -e "Tecmint \ris a community of Linux Nerds"
- 1297  echo -e "Tecmint is a community \cof Linux Nerds"
- 1298  echo -n "Tecmint is a community of Linux Nerds"
- 1299  echo -e "Tecmint is a community of \aLinux Nerds"
- 1300  echo *
- 1301  echo *.jpeg
- 1302  echo "Test Page" > testpage
- 1303  cat testpage
- 1304  ls -l
- 1305  pwd
- 1306  cp history.txt a.txt
- 1307  ls -l
- 1308  cp history.txt a.txt
- 1309  cp history.txt ~/al.txt
- 1310  cp history.txt /home/user/a2.txt
- 1311  cp history.txt ../a3.txt
- 1312  ls
- 1313  cd ..
- 1314  ls
- 1315  cd ?
- 1316  cd /
- 1317  pwd
- 1318  mv /home/user/*.txt ~/darbi/
- 1319  cd
- 1320  ls
- 1321  cd darbi
- 1322  ls
- 1323  pwd
- 1324  mkdir apakshdarbi
- 1325  mkdir apaksdari
- 1326  pwd
- 1327  mkdir apakshdari
- 1328  ls -l
- 1329  mv a*.txt ./apakshdari/
- 1330  ls
- 1331  history.txt
- 1332  rmdir apakshdari
- 1333  man rmdir
- 1334  rm apakshdari/
- 1335  rm -r apakshdari/
- 1336  ls
- 1337  less history.txt
- 1338  nano
- 1339  pwd
- 1340  ls -la
- 1341  history > history.txt
-=======
->>>>>>> f13b2263427c267a18d91de21d1287f3393c0365
