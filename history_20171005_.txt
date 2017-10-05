@@ -1,0 +1,52 @@
+    1  git clone https://github.com/Butkevics/DMI
+    2  ls -l
+    3  pwd
+    4  nano sl.sh
+    5  chmod 744 sl.sh
+    6  firefox
+    7  nano test!
+    8  chmod 744 sl.sh
+    9  nano sl.sh
+   10  ./test!
+   11  nano shell_operators_.sh
+   12  chmod 744 shell_operators.sh
+   13  ./shell_operators_.sh
+   14  cat shell_operators_.sh 
+   15  ./shell_operators_.sh
+   16  nano shell_operators_.sh
+   17  cat shell_operators_.sh 
+   18  ./shell_operators_.sh
+   19  nano shell_operators_.sh
+   20  cat shell_operators_.sh 
+   21  ls -l
+   22  mv shell_operators_.sh test\! DMI/
+   23  ls -l
+   24  cd DMI/
+   25  ls -l
+   26  chmod 744 shell_operators_.sh 
+   27  ./shell_operators_.sh
+   28  nano shell_operators_.sh
+   29  ./shell_operators_.sh
+   30  nano shell_operators_.sh
+   31  ./shell_operators_.sh
+   32  nano shell_operators_.sh
+   33  ./shell_operators_.sh
+   34  nano shell_operators_.sh
+   35  ./shell_operators_.sh
+   36  nano shell_operators_.sh
+   37  ./shell_operators_.sh
+   38  nano shell_operators_.sh
+   39  ./shell_operators_.sh
+   40  nano shell_operators_.sh
+   41  ./shell_operators_.sh
+   42  nano shell_operators_.sh
+   43  ./shell_operators_.sh
+   44  nano shell_operators_.sh
+   45  ./shell_operators_.sh
+   46  nano shell_operators_.sh
+   47  ./shell_operators_.sh
+   48  nano shell_operators_.sh
+   49  ./shell_operators_.sh
+   50  nano shell_operators_.sh
+   51  history . history_20171005_.txt
+   52  history > history_20171005_.txt
