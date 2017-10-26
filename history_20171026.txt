@@ -78,3 +78,5 @@
    78  ./array_loop.sh 56 8 9  1 5 5 5 4 87 54 5 4
    79  nano statistika.sh 
    80  history >history.txt
+   81  history >history_20171026.txt
+   82  history > history_20171026.txt
