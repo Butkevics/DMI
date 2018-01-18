@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Butkevics/DMI
+    3  cd DMI
+    4  ls
+    5  nano statistika.sh
+    6  ./statistika.sh 1 2 3
+    7  ./statistika.sh 1 3 2
+    8  nano statistika.sh
+    9  ./statistika.sh 1 3 2
+   10  nano statistika.sh
+   11  ./statistika.sh 1 3 2
+   12  nano statistika.sh
+   13  ./statistika.sh 1 3 2
+   14  nano statistika.sh
+   15  ./statistika.sh 1 3 2
+   16  nano statistika.sh
+   17  ./statistika.sh 1 3 2
+   18  nano statistika.sh
+   19  ./statistika.sh 1 3 2
+   20  nano statistika.sh
+   21  ./statistika.sh 50 20 40
+   22  nano statistika.sh
+   23  python
+   24  git clone https://github.com/Butkevics/DMI
+   25  nano statistika.sh
+   26  rm -rf DMI
+   27  git clone https://github.com/Butkevics/DMI
+   28  nano statistika.sh
+   29  rm -rf DMI
+   30  git clone https://github.com/Butkevics/DMI
+   31  cd DMI
+   32  nano statistika.sh
+   33  ./statistika.sh 50 20 40
+   34  nano statistika.sh
+   35  ls
+   36  ./statistika.sh 50 20 50
+   37  cs PYTHON
+   38  cd PYTHON
+   39  nano tabulamajas.py
+   40  ./tabulamajas.py 1
+   41  chmod 744 tabulamajas.py
+   42  ./tabulamajas.py 1
+   43  ./tabulamajas.py
+   44  nano sin_caur_summu_ver5_C04.py
+   45  ./ sin_caur_summu_ver5_C04.py
+   46  ./sin_caur_summu_ver5_C04.py
+   47  chmod 744 sin_caur_summu_ver5_C04.py
+   48  ./sin_caur_summu_ver5_C04.py
+   49  nano sin_caur_summu_ver5_C04.py
+   50  ./sin_caur_summu_ver5_C04.py
+   51  nano sin_caur_summu_ver5_C04.py
+   52  ./tabulamajas.py
+   53  nano tabulamajas.py
+   54  nano sin_caur_summu_ver5_C04.py
+   55  nano tabulamajas.py
+   56  ./tabulamajas.py
+   57  nano cosh(x).py
+   58  nano funkcija.py
+   59  cd..
+   60  cd ..
+   61  history > history_20180118.txt
