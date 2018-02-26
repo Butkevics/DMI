@@ -1,0 +1,6 @@
+figure(1), B = imread('image3.png');
+image(B);
+image([400 700],[1.0 0],B)
+set(gca, 'Ydir','normal')
+%[x,y] = ginput (7);
+x= [
